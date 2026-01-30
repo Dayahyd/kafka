@@ -69,6 +69,7 @@ Monitoring	Custom (Prometheus)	CloudWatch
 Cost	Infra + ops cost	Pay-as-you-go
 Vendor lock-in	No	Yes (AWS)
 Control	Full control	Limited infra control
+
 4️⃣ Architecture Difference
 Apache Kafka (Self-Managed)
 
@@ -219,6 +220,7 @@ Focus is application logic, not infra
 1️⃣2️⃣ Real-Time Project Example (Interview Gold)
 
 “In one of my projects, we initially used self-managed Kafka on EC2. As traffic grew, operational complexity increased—patching, scaling, monitoring became challenging. We migrated to AWS MSK to reduce operational overhead. MSK provided better stability, easy integration with IAM, and CloudWatch monitoring, allowing the team to focus more on application development.”
+
 
 1️⃣3️⃣ One-Line Interview Answer
 
