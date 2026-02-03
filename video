@@ -1,0 +1,11 @@
+00:00 - Intro
+00:40 - What is Kafka? Why Kafka?
+05:32 - How Kafka achieves scalable performance
+07:20 - Kafka vs Other Message Brokers
+08:20 - Kafka Demo Overview
+10:13 - Setup Python Project
+13:03 - Run Kafka with Docker Compose
+27:43 - Write and Run a Kafka Producer
+44:12 - Using Kafka CLI
+48:44 - Write and Run a Kafka Consumer
+01:01:05 - Test the Whole Flow & Gracefully Shut Down
